@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PSIDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_network">No internet connection, please try later</string>
+    <string name="result_reading">O3 sub index : %1$.0f \nPM10 twenty four hourly : %2$.0f \nPM10 sub index : %3$.0f \nCO sub index : %4$.0f \nPM25 twenty four hourly : %5$.0f \nSO2 sub index : %6$.0f \nCO eight hour max : %7$.2f \nNO2 one hour max : %8$.0f \nSO2 twenty four hourly : %9$.0f \nPM25 sub index : %10$.0f \nPSI twenty four hourly : %11$.0f \nO3 eight hour max : %12$.0f</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="please_wait">Please wait</string>
+    <string name="marker_title">PSI Data</string>
+</resources>
